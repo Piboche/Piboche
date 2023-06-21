@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi 👋
+I'm a developer based in Berlin. 
+I'm looking to work for clients whose core activities are not harmful to the planet and its inhabitants.
 
 <!--
 **Piboche/Piboche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
