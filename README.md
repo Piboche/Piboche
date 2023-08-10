@@ -2,7 +2,7 @@ Hi 👋
 I'm a developer based in Berlin. 
 I'm looking to work for clients whose core activities are not harmful to the planet and its inhabitants.
 
-https://www.codewars.com/users/Piboche/badges/micro
+<img src="https://www.codewars.com/users/Piboche/badges/small">
 
 <!--
 **Piboche/Piboche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
