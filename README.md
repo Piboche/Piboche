@@ -1,8 +1,12 @@
 Hi 👋
 I'm a developer based in Berlin. 
 I'm looking to work for clients whose core activities are not harmful to the planet and its inhabitants.
-
-<img src="https://www.codewars.com/users/Piboche/badges/small">
+My current stack is: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,ruby" />
+  </a>
+</p>
 
 <!--
 **Piboche/Piboche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
