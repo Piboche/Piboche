@@ -1,7 +1,7 @@
 Hi 👋
-I'm a developer based in Berlin. 
-I'm looking to work for clients whose core activities are not harmful to the planet and its inhabitants.
-My current stack is: 
+<!-- I'm a developer based in Berlin. 
+I'm looking to work for clients whose core activities are not harmful to the planet and its inhabitants. -->
+Current stack: 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,figma,ruby" />
